@@ -3,13 +3,14 @@
 Simple Analyser code for Gen level information.
 
 # Setup:
-
+```
 cmsrel CMSSW_10_6_17
 cd CMSSW_10_6_17/src/
 cmsenv
 mkdir Demo
 mkedanalzr DemoGen
 cd DemoGen
+```
 
 # Description
 
